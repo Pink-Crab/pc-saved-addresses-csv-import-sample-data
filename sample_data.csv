@@ -1,0 +1,5 @@
+user_id,address_type,first_name,last_name,company,country,address_line_1,address_line_2,city,state,postcode
+1,shipping,John,Smith,Company A,GB,1 Long Street,,London,,SW1 1AA
+2,shipping,Jane,Doe,Company B,GB,Flat 1,1 Long Road,London,,SW1 1AA
+1,billing,John,Smith,Company A,GB,1 Long Street,,London,,SW1 1AA
+2,billing,Jane,Doe,Company B,GB,Flat 1,1 Long Road,London,,SW1 1AA
